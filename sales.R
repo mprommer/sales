@@ -6,3 +6,4 @@ sales
 
 head(sales)
 
+print(sales)
